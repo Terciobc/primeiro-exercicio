@@ -1,0 +1,51 @@
+body {
+    background-color: rgb(68, 68, 214);
+    font: arial pt 15px;
+    text-align: center;
+}
+
+header {
+    color: white;
+
+}
+#pesquisa{
+    margin-top: 20px;    
+    padding: 10px;
+    width: 250px;
+    border-radius: 20px;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 500;
+    
+}
+#imagem {
+    padding: 20px;
+    width: 300px;
+    height: 300px;
+    border-radius: 200px;
+}
+section{
+    background-color: whitesmoke;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    text-align: center;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.527);
+
+}
+.button{
+    height: 30px;
+    width: 100px;
+    border-radius: 20px;
+
+}
+.button:hover{
+    background-color: crimson;
+    transition: 2s;
+}
+
+footer {
+    color: white;
+    font-style: italic 10px;
+}
